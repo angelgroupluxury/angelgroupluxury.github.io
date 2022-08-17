@@ -90,7 +90,7 @@
     <script src="ShowLocation.js"></script>
     var i = 0;
     <script>
- i++;
+
         VillaDataBase.VillaList.forEach(ShowVillaInfo);
         function ShowVillaInfo(VillaInfo) {
             if (i < 6)
@@ -100,6 +100,7 @@
             document.getElementById("GirdShowVillaInfo").innerHTML += '<a href= ' + encodeURIComponent(VillaViewPage) + ' class="ButtonShowInfoVilla"> <p  class="VillaName">'
                 + VillaInfo.VillaName + '</p> <image id = "ShowVillaImg" src= ' + encodeURIComponent(MainPicture) + ' alt =' + VillaInfo.VillaName +
                 '> </p>  <p class="VillaInfo">' + VillaInfo.description;
+ i++;
                 }
                    
         }
