@@ -22,8 +22,7 @@ class VillaDataBase {
 }
 
 //*
-VillaDataBase.VillaList.push(new VillaDataBase("Đạt Đậu","Tôi tên kalf đaua<br>dsfdasfsffdasfafsadf",6,1,"/villa/BaVi/5PN7100K.htm","/villa/BaVi/5PN7100K_files/image013.jpg",1000000)); 
-VillaDataBase.VillaList.push(new VillaDataBase("BaVi","",6,1,"/villa/BaVi/BAVII.htm","/villa/BaVi/5PN7100K_files/image014.jpg",5000000)); 
+VillaDataBase.VillaList.push(new VillaDataBase("HESTIALUXURYVILLA","- 3 phòng đơn (giường King size, chăn, ga, gối, đệm dự phòng) <br>- 1 phòng ngủ tập thể 03 giường view ban công thoáng mát từ đó có thể nhìn xuống hồ câu và bể bơi, 1 nhà vệ sinh chung cùng đầy đủ chăn ga gối đệm dự phòng",7,1,"/villa/HESTIALUXURYVILLA.htm","/villa/HESTIALUXURYVILLA_files/image030.jpg",2800000)); 
 //* LAPK
 LocationList.push("Hoà Bình");
 LocationList.push("Ba Vì");
